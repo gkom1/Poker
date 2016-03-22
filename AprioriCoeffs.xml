@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tablesRoot>
+<tables>
+  <table count="4" player="3.751">
+    <any>
+      <combination type="NONE" value="161"/>
+      <combination type="PAIR" value="4.148"/>
+      <combination type="PAIR2" value="2.961"/>
+      <combination type="THREE" value="9.06"/>
+      <combination type="STRAIGHT" value="7.646"/>
+      <combination type="FLUSH" value="11.75"/>
+      <combination type="FULL_HOUSE" value="12.26"/>
+      <combination type="FOUR" value="166.7"/>
+      <combination type="STRAIGHT_FLUSH" value="945.5"/>
+      <combination type="ROYAL_FLUSH" value="8030"/>
+    </any>
+    <express>
+      <combination type="NONE" value="570.5"/>
+      <combination type="PAIR" value="15.84"/>
+      <combination type="PAIR2" value="11.09"/>
+      <combination type="THREE" value="35.31"/>
+      <combination type="STRAIGHT" value="26.49"/>
+      <combination type="FLUSH" value="46.13"/>
+      <combination type="FULL_HOUSE" value="45.57"/>
+      <combination type="FOUR" value="650"/>
+      <combination type="STRAIGHT_FLUSH" value="3660"/>
+      <combination type="ROYAL_FLUSH" value="31000"/>
+    </express>
+  </table>
+  
+  <table count="6" player="5.512">
+    <any>
+      <combination type="NONE" value="1894"/>
+      <combination type="PAIR" value="6.204"/>
+      <combination type="PAIR2" value="3.277"/>
+      <combination type="THREE" value="7.191"/>
+      <combination type="STRAIGHT" value="6.027"/>
+      <combination type="FLUSH" value="9.233"/>
+      <combination type="FULL_HOUSE" value="9.156"/>
+      <combination type="FOUR" value="112.7"/>
+      <combination type="STRAIGHT_FLUSH" value="640"/>
+      <combination type="ROYAL_FLUSH" value="5364"/>
+    </any>
+    <express>
+      <combination type="NONE" value="9565"/>
+      <combination type="PAIR" value="35.32"/>
+      <combination type="PAIR2" value="18.16"/>
+      <combination type="THREE" value="41.7"/>
+      <combination type="STRAIGHT" value="29.5"/>
+      <combination type="FLUSH" value="54.73"/>
+      <combination type="FULL_HOUSE" value="50.06"/>
+      <combination type="FOUR" value="659"/>
+      <combination type="STRAIGHT_FLUSH" value="3717"/>
+      <combination type="ROYAL_FLUSH" value="30900"/>
+    </express>
+  </table>
+  <table count="8" player="7.203">
+    <any>
+      <combination type="NONE" value="30900"/>
+      <combination type="PAIR" value="8.931"/>
+      <combination type="PAIR2" value="3.778"/>
+      <combination type="THREE" value="6.267"/>
+      <combination type="STRAIGHT" value="5.239"/>
+      <combination type="FLUSH" value="7.903"/>
+      <combination type="FULL_HOUSE" value="7.560"/>
+      <combination type="FOUR" value="85.12"/>
+      <combination type="STRAIGHT_FLUSH" value="486"/>
+      <combination type="ROYAL_FLUSH" value="4035"/>
+    </any>
+    <express>
+      <combination type="NONE" value="198000"/>
+      <combination type="PAIR" value="67.16"/>
+      <combination type="PAIR2" value="27.75"/>
+      <combination type="THREE" value="47.87"/>
+      <combination type="STRAIGHT" value="32.39"/>
+      <combination type="FLUSH" value="62.78"/>
+      <combination type="FULL_HOUSE" value="54.34"/>
+      <combination type="FOUR" value="664"/>
+      <combination type="STRAIGHT_FLUSH" value="3771"/>
+      <combination type="ROYAL_FLUSH" value="30900"/>
+    </express>
+  </table>
+</tables>
+</tablesRoot>
